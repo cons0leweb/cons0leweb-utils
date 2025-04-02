@@ -187,7 +187,7 @@ Logs are saved in `cons0leweb_utils.log`.
 ---
 
 ## **🎉 Conclusion**  
-**Cons0leweb Utils Pro** is a **versatile file management tool** for bulk operations.  
+**Cons0leweb Utils** is a **versatile file management tool** for bulk operations.  
 
 🔹 **Use cases:**  
 - **Web developers** (batch-edit HTML/CSS/JS)  
